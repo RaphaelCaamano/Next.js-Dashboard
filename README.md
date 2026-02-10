@@ -4,7 +4,7 @@ A Next.js dashboard of a rich-featured, user-authenticated system utilized to mo
 
 <img width="1364" height="752" alt="532626437-ce869037-d9b1-49e7-8a0a-eb7768166873" src="https://github.com/user-attachments/assets/25c05625-6473-4044-9583-23a1f6051cf1" />
 
-Next.js App Router Fundamentals Course
+# Next.js App Router Fundamentals Course
 A free interactive course for the Next.js App Router Fundamentals that contains the starting code for a financial dashboard with accompanying database to learn the main features of Next.js by building a full-stack Next.js application.
 
 For more information of the course, please click the link to the Next.js Website:
