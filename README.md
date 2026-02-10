@@ -11,4 +11,4 @@ A free interactive course for the Next.js Foundations course to learn the main f
 
 For more information, please click the link to the Next.js Website: https://nextjs.org/learn/dashboard-app
 
-# Dashboard Trial
+# Next.js Dashboard Demo
