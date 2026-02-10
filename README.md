@@ -10,5 +10,3 @@ A Next.js dashboard of a rich-featured, user-authenticated system utilized to mo
 A free interactive course for the Next.js Foundations course to learn the main features of Next.js by building a full-stack financial dashboard with covers routing, data fetching, Postgres, Vercel, server actions, authentication, and optimization.
 
 For more information, please click the link to the Next.js Website: https://nextjs.org/learn/dashboard-app
-
-# Next.js Dashboard Demo
