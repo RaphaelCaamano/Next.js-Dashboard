@@ -7,4 +7,4 @@ A Next.js dashboard of a rich-featured, user-authenticated system utilized to mo
 # Next.js App Router Fundamentals Course
 A free interactive course for the Next.js App Router Fundamentals that contains the starting code for a financial dashboard with accompanying database to learn the main features of Next.js by building a full-stack Next.js application.
 
-For more information of the course, please click the link to the Next.js Website:
+For more information of the course, please click the link to the Next.js Website: https://nextjs.org/learn/dashboard-app
